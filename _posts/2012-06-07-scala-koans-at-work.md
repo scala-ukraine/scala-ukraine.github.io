@@ -5,7 +5,7 @@ title: Анонс scala-koans work day
 description: У кого есть роскошь выделить рабочий день на изучение языка - scala-koans work day
 
 date: 2012-06-07
-categories: jekyll update
+categories: [koans]
 ---
 
 * **Что:** scala-koans work day

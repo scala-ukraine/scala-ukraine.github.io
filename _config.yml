@@ -31,13 +31,14 @@ url: "https://abrasha.xyz"
 twitter_username: тут наш твіттер
 github_username: тут наш гітхаб
 
-permalink: "/:categories/:year/:month/:day/:title"
+permalink: "/posts/:categories/:year/:month/:day/:title/"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -5,7 +5,7 @@ title: Анонс scala-koans code retreat
 description: Для тех, кто хочет ознакомиться со scala, появилась возможность сделать это участвуя в scala-koans code retreat.
 
 date: 2012-06-05
-categories: jekyll update
+categories: [koans]
 ---
 
 * **Что:**  scala-koans code retreat
