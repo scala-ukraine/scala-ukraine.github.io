@@ -28,8 +28,8 @@ baseurl: "/"
 
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://scala-ukraine.github.io"
-twitter_username: scala_ukraine
-github_username: scala_ukraine
+twitter_username: scala-ukraine
+github_username: scala-ukraine
 
 permalink: "/posts/:categories/:year/:month/:day/:title/"
 
