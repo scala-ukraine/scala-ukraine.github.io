@@ -21,7 +21,7 @@
 title: Scala Ukraine
 email: info@ukraine.scala.group
 description: >- # this means to ignore newlines until "baseurl:"
-  Тут статичний опис діяльності нашої спільноти.
+  Обʼєднана спільнота Scala розробників України 🇺🇦
 
 # the subpath of your site, e.g. /blog
 baseurl: "/"
@@ -40,6 +40,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+collections:
+  archive:
+    output: true
+    sort_by: date
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
