@@ -33,6 +33,10 @@ github_username: scala-ukraine
 
 permalink: "/posts/:categories/:year/:month/:day/:title/"
 
+logo: /assets/img/scala_logo_white.png
+title-logo: /assets/img/scala_logo_white.png
+locale: uk_UA
+
 # Build settings
 theme: minima
 plugins:
