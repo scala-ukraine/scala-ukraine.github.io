@@ -37,6 +37,8 @@ logo: /assets/img/scala_logo_white.png
 title-logo: /assets/img/scala_logo_white.png
 locale: uk_UA
 
+google_analytics: G-546E7NNQKP
+
 # Build settings
 theme: minima
 plugins:
